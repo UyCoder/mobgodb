@@ -140,8 +140,6 @@ class MobgodbApplicationTests {
         System.out.println(upsert);
     }
 
-
-
     // delete user test
     @Test
     void deleteUser() {

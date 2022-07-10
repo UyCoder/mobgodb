@@ -10,4 +10,6 @@ public class MobgodbApplication {
         SpringApplication.run(MobgodbApplication.class, args);
     }
 
+
+
 }
