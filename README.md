@@ -28,7 +28,7 @@ sudo docker run -d --restart=always -p 27017:27017 --name mymongo -v /data/db:/d
 # open container
 sudo docker exec -it mymongo /bin/bash 
 
-#使用MongoDB客户端进行操作 
+# open Mongo db
 mongo 
 > show dbs
 ```
